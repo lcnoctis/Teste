@@ -7,6 +7,7 @@ body {
 }
 
 .modo-escuro{
+    transition: 1s;
     background-color: #212121;
     
 }
@@ -29,6 +30,7 @@ header .imagem-botao {
 }
 
 header #alterarTema {
+    transition: 1s;
     background: none;
     border: none;
 }
